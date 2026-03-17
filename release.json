@@ -1,0 +1,14 @@
+{
+  "version": "1.5.0",
+  "date": "2026-03-17",
+  "notes": [
+    "Added sorting to menus",
+    "Added styling to datasets",
+    "Fixed a bug that made a scrollwheel appear when alot of people were in a menu",
+    "State bag events (read on docs for more information)",
+    "Using the state bag events, made it possible to show whether a player is talking over radio or not",
+    "Optimized the script ALOT",
+    "Config changes to add logic",
+    "Per menu player count with locale"
+  ]
+}
