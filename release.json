@@ -9,6 +9,7 @@
     "Using the state bag events, made it possible to show whether a player is talking over radio or not",
     "Optimized the script ALOT",
     "Config changes to add logic",
-    "Per menu player count with locale"
+    "Per menu player count with locale",
+    "Improved css design"
   ]
 }
